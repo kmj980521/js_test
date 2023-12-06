@@ -117,7 +117,7 @@ console.log(true!='1'); // true
 
 console.log('-----타입 비교 포함---------');
 
-// 타입을 비교하지 않음
+// 타입까지 고려함
 console.log(5!==5);   // true
 console.log(5!=='5'); // true
 console.log(0 !==''); // true
